@@ -1,0 +1,7 @@
+E:\github\repo\TcpClient-Server\TcpClient\bin\Debug\TcpClient.exe.config
+E:\github\repo\TcpClient-Server\TcpClient\bin\Debug\TcpClient.exe
+E:\github\repo\TcpClient-Server\TcpClient\bin\Debug\TcpClient.pdb
+E:\github\repo\TcpClient-Server\TcpClient\obj\Debug\TcpClient.csproj.AssemblyReference.cache
+E:\github\repo\TcpClient-Server\TcpClient\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+E:\github\repo\TcpClient-Server\TcpClient\obj\Debug\TcpClient.exe
+E:\github\repo\TcpClient-Server\TcpClient\obj\Debug\TcpClient.pdb
